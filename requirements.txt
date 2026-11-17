@@ -1,0 +1,22 @@
+
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+asyncpg
+alembic
+
+# Authentication & Security
+PyJWT
+pwdlib[argon2]
+python-multipart
+
+# Validation & Settings
+pydantic[email]
+pydantic-settings
+
+# Environment Variables
+python-dotenv
